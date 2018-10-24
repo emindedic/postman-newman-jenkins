@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "api-tests-production": "newman run tests/jsonplaceholder.com.postman_collection.js"
+    "api-tests-production": "newman run tests/jsonplaceholder.com.postman_collection.json"
   },
   "author": "Emin Dedic",
   "dependencies": {
